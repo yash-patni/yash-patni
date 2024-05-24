@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Yash Patni</h1>
-<h3 align="center">I am a Flutter Developer</h3>
+<h1 align="center">Hi there👋, I'm Yash Patni</h1>
+<h3 align="center">I am an enthusiastic programmer.</h3>
 
-- 🔭 I’m currently working on **Flutter Development**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 🤝 I’m looking for help with **Data Structures And Algorithm**
+- 🤝 I’m looking for help with **Data Structures And Algorithms**
 
-- 💬 Ask me about **C++, Algorithms,**
+- 💬 Ask me about **C++, Algorithms**
 
 - 📫 How to reach me **yashpatni2223@gmail.com**
 
