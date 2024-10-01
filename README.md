@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Structures and Algortihmd**
 
-- 🤝 I’m looking for help with **Data Structures And Algorithms**
+- 🤝 I’m looking for opportunities in **Software Development**
 
 - 💬 Ask me about **C++, Algorithms**
 
-- 📫 How to reach me **yashpatni2223@gmail.com**
+- 📫 How to reach me **yashrpatni@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
