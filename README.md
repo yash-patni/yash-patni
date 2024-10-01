@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Data Structures and Algortihmd**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 🤝 I’m looking for opportunities in **Software Development**
 
